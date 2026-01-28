@@ -5,6 +5,9 @@ public class Main {
         System.out.println("=== Welcome to the Number Guessing Game! (DEV)  ===");
         // Version 1.1 - Added quit functionality
         // Feature2: preparing for rebase practice
+        // Feature3: hint experiment (commit 1)
+        // Feature3: hint experiment (commit 2)
+        // Feature3: hint experiment (commit 3)
         System.out.println("Good luck!");
 
         Scanner scanner = new Scanner(System.in);
