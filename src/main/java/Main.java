@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("=== Welcome to the Number Guessing Game! (DEV)  ===");
         // Version 1.1 - Added quit functionality
+        // Feature2: preparing for rebase practice
         System.out.println("Good luck!");
 
         Scanner scanner = new Scanner(System.in);
