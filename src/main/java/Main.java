@@ -2,7 +2,8 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("=== Welcome to the Number Guessing Game! (Feature A) ===");
+
+        System.out.println("=== Welcome to the Number Guessing Game! ==="); // FeatureA + FeatureB
 
         GameEngine engine = new GameEngine(1, 100);
         GameUI ui = new GameUI(engine, new Scanner(System.in));
