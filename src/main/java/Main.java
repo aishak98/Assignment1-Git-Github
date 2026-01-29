@@ -10,6 +10,7 @@ public class Main {
         // Feature3: hint experiment (commit 3)
         System.out.println("Good luck!");
 
+
         Scanner scanner = new Scanner(System.in);
         GameEngine engine = new GameEngine(1, 100);
         GameUI ui = new GameUI(engine, scanner);
